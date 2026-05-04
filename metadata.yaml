@@ -3,4 +3,4 @@ display_name: OpenAI Compat
 desc: 为 AstrBot 内置 Agent 的 OpenAI 兼容接口修复工具调用与推理字段格式。
 version: v0.1.0
 author: AsryMiu
-repo: ""
+repo: https://github.com/ShirakawaYuina/astrbot_plugin_openai_compat
